@@ -3,7 +3,7 @@ Course Content
 
 Part A: Implement the following using C/C++:
 
-1.Write a program for implementing the error detection technique for data transfer in unreliable network code using CRC (16-bits) Technique.
+[1](https://github.com/nishJay/CN-codes/blob/main/CRC-16.c).Write a program for implementing the error detection technique for data transfer in unreliable network code using CRC (16-bits) Technique.
 
 2.Write a program to implement internet checksum for error correction and detection.
 
