@@ -129,3 +129,62 @@ scanf("%d",&S);
  
     return 0;
 }
+/*Enter number of vertices in graph
+5
+Enter number of edges in graph
+9
+Enter your source vertex number
+0
+
+Enter edge 1 properties Source, destination, weight respectively
+0
+1
+4
+
+Enter edge 2 properties Source, destination, weight respectively
+0
+2
+2
+
+Enter edge 3 properties Source, destination, weight respectively
+1
+3
+2
+
+Enter edge 4 properties Source, destination, weight respectively
+2
+4
+5
+
+Enter edge 5 properties Source, destination, weight respectively
+1
+2
+3
+
+Enter edge 6 properties Source, destination, weight respectively
+2
+1
+1
+
+Enter edge 7 properties Source, destination, weight respectively
+2
+3
+4
+
+Enter edge 8 properties Source, destination, weight respectively
+1
+4
+4
+
+Enter edge 9 properties Source, destination, weight respectively
+4
+3
+-5
+
+Vertex	Distance from Source Vertex
+0 		 0
+1 		 3
+2 		 2
+3 		 2
+4 		 7
+*/
