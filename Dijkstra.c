@@ -80,3 +80,25 @@ printf("<-%d",j);
 }while(j!=startnode);
 }
 }
+
+/*
+Enter no. of vertices:5
+
+Enter the adjacency matrix:
+0 9 999 5 999
+9 0 1 2 999
+999 1 0 9 6
+5 2 9 0 4
+999 999 6 4 0
+
+Enter the starting node:1
+
+Distance of node0=7
+Path=0<-3<-1
+Distance of node2=1
+Path=2<-1
+Distance of node3=2
+Path=3<-1
+Distance of node4=6
+Path=4<-3<-1
+*/
